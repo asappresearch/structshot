@@ -1,0 +1,7 @@
+.python-version
+.vscode/
+.mypy_cache/
+*.egg-info/
+__pycache__/
+venv/
+lightning_logs/
